@@ -1,1 +1,227 @@
-[]
+[
+  {
+    "id": "s7-typing-1",
+    "type": "video",
+    "title": "Как научиться печатать быстро? Подробный гайд (Сергей Константинов)",
+    "author": "pgk-champs",
+    "chapterId": "typing",
+    "data": "https://www.youtube.com/watch?v=TGVoOBmvTJs",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-it-english-1",
+    "type": "video",
+    "title": "Технический английский для IT: слова для программистов (школа «Диалог»)",
+    "author": "pgk-champs",
+    "chapterId": "it-english",
+    "data": "https://www.youtube.com/watch?v=lKEnfEd62jw",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-english-practice-1",
+    "type": "video",
+    "title": "Пошаговый план для самостоятельного изучения английского (Инглекс)",
+    "author": "pgk-champs",
+    "chapterId": "02b-english-practice",
+    "data": "https://www.youtube.com/watch?v=nx7C_as15HU",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-linux-terminal-1",
+    "type": "video",
+    "title": "Терминал Linux для начинающих: основные команды (PythonToday)",
+    "author": "pgk-champs",
+    "chapterId": "linux-terminal",
+    "data": "https://www.youtube.com/watch?v=XvqRTcRK7fU",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-linux-terminal-2",
+    "type": "source",
+    "title": "Командная строка Linux: краткий курс для начинающих (Академия Selectel)",
+    "author": "pgk-champs",
+    "chapterId": "linux-terminal",
+    "data": "https://selectel.ru/blog/tutorials/linux-for-beginners/",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-files-ssh-1",
+    "type": "video",
+    "title": "SSH: что это, как работает и как настроить (Руцентр)",
+    "author": "pgk-champs",
+    "chapterId": "files-packages-ssh",
+    "data": "https://www.youtube.com/watch?v=IjBZFGXci1Y",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-git-first-1",
+    "type": "video",
+    "title": "Git и GitHub: курс для новичков (Владилен Минин)",
+    "author": "pgk-champs",
+    "chapterId": "git-first-commit",
+    "data": "https://www.youtube.com/watch?v=zZBiln_2FhM",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-git-first-2",
+    "type": "source",
+    "title": "Git How To: интерактивный тур по основам Git на русском",
+    "author": "pgk-champs",
+    "chapterId": "git-first-commit",
+    "data": "https://githowto.com/ru",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-git-branches-1",
+    "type": "video",
+    "title": "Git: слияние веток и решение конфликтов слияния (Devcolibri)",
+    "author": "pgk-champs",
+    "chapterId": "git-branches",
+    "data": "https://www.youtube.com/watch?v=Fq9gDH_u2no",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-git-branches-2",
+    "type": "source",
+    "title": "Learn Git Branching: визуальный тренажёр веток (по-русски)",
+    "author": "pgk-champs",
+    "chapterId": "git-branches",
+    "data": "https://learngitbranching.js.org/?locale=ru_RU",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-git-remote-1",
+    "type": "video",
+    "title": "Pull request на практике в GitHub (Тимофей Коваленко)",
+    "author": "pgk-champs",
+    "chapterId": "git-remote",
+    "data": "https://www.youtube.com/watch?v=G_HKJJLozUc",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-git-remote-2",
+    "type": "source",
+    "title": "Книга Pro Git на русском (git-scm.com)",
+    "author": "pgk-champs",
+    "chapterId": "git-remote",
+    "data": "https://git-scm.com/book/ru/v2",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-android-studio-1",
+    "type": "video",
+    "title": "Android Studio: установка и настройка эмулятора — курс Android на Kotlin с нуля (Иван Ветров)",
+    "author": "pgk-champs",
+    "chapterId": "android-studio",
+    "data": "https://www.youtube.com/watch?v=DzqfBxlvANQ",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-kotlin-vars-1",
+    "type": "video",
+    "title": "Kotlin с нуля: бесплатный курс по основам программирования (Иван Ветров)",
+    "author": "pgk-champs",
+    "chapterId": "kotlin-vars",
+    "data": "https://www.youtube.com/playlist?list=PLgPRahgE-Gcu4s-I9mrHUrKUp9dY6QcJC",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-kotlin-vars-2",
+    "type": "source",
+    "title": "Основной синтаксис Kotlin — документация на русском (kotlinlang.ru)",
+    "author": "pgk-champs",
+    "chapterId": "kotlin-vars",
+    "data": "https://kotlinlang.ru/docs/basic-syntax.html",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-functions-lambdas-1",
+    "type": "video",
+    "title": "Kotlin в картинках: лямбда-выражения и функции высшего порядка (Юрий Петров)",
+    "author": "pgk-champs",
+    "chapterId": "functions-lambdas",
+    "data": "https://www.youtube.com/watch?v=3v_QlWC63Pw",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-classes-collections-1",
+    "type": "video",
+    "title": "Функции высшего порядка в Kotlin: map, flatMap, fold, filter (Seems Nerdy)",
+    "author": "pgk-champs",
+    "chapterId": "classes-collections",
+    "data": "https://www.youtube.com/watch?v=KxO2gWDVoKU",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-classes-collections-2",
+    "type": "source",
+    "title": "Коллекции Kotlin: обзор — документация на русском (kotlinlang.ru)",
+    "author": "pgk-champs",
+    "chapterId": "classes-collections",
+    "data": "https://kotlinlang.ru/docs/collections-overview.html",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-compose-screen-1",
+    "type": "video",
+    "title": "Jetpack Compose для начинающих: плейлист-курс (Neco Ru)",
+    "author": "pgk-champs",
+    "chapterId": "first-compose-screen",
+    "data": "https://www.youtube.com/playlist?list=PLmjT2NFTgg1cyNFqS2ST6nTDxZH_bYjba",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-compose-screen-2",
+    "type": "source",
+    "title": "Официальный курс Jetpack Compose от Google (на русском)",
+    "author": "pgk-champs",
+    "chapterId": "first-compose-screen",
+    "data": "https://developer.android.com/courses/jetpack-compose/course?hl=ru",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-state-events-1",
+    "type": "video",
+    "title": "Jetpack Compose. Основы. State (Алексей Гладков)",
+    "author": "pgk-champs",
+    "chapterId": "state-events",
+    "data": "https://www.youtube.com/watch?v=ND-OA_9L1vo",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-layout-mockup-1",
+    "type": "video",
+    "title": "Курс по Jetpack Compose: Modifier и вёрстка экрана (Neco Ru)",
+    "author": "pgk-champs",
+    "chapterId": "layout-by-mockup",
+    "data": "https://www.youtube.com/watch?v=xbNScpVwlq4",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-ui-kit-1",
+    "type": "video",
+    "title": "Современная архитектура Android-приложений — Archetype (Степан Гончаров, HighLoad)",
+    "author": "pgk-champs",
+    "chapterId": "ui-kit",
+    "data": "https://www.youtube.com/watch?v=BgZo09hjflo",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-blockchain-1",
+    "type": "video",
+    "title": "Что такое блокчейн — простое объяснение (CryptoInside)",
+    "author": "pgk-champs",
+    "chapterId": "what-is-blockchain",
+    "data": "https://www.youtube.com/watch?v=ttEkY4Owd1c",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "s7-waves-1",
+    "type": "source",
+    "title": "Waves Enterprise на GitHub: открытый код платформы и ноды",
+    "author": "pgk-champs",
+    "chapterId": "waves-first-network",
+    "data": "https://github.com/waves-enterprise",
+    "addedAt": "2026-09-01T12:00:00.000Z"
+  }
+]
