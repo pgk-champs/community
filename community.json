@@ -229,12 +229,84 @@
     "type": "preset",
     "title": "Три слова про git",
     "author": "Olegg000",
-    "chapterId": "foundation/05-git-first-commit",
+    "chapterId": "git-first-commit",
     "data": {
       "engine": "wordorder",
       "phrase": "git commit early",
       "name": "Три слова про git"
     },
     "addedAt": "2026-09-02T04:59:09.619Z"
+  },
+  {
+    "id": "s8-github-start-1",
+    "type": "video",
+    "title": "GitHub регистрация: аккаунт за 2 минуты для новичка (Иван Ветров)",
+    "author": "pgk-champs",
+    "chapterId": "github-start",
+    "data": "https://www.youtube.com/watch?v=I1M5aSadK_I",
+    "addedAt": "2026-09-02T12:00:00.000Z"
+  },
+  {
+    "id": "s8-github-start-2",
+    "type": "video",
+    "title": "Как пользоваться GitHub | Часть 1 (Айтигенио)",
+    "author": "pgk-champs",
+    "chapterId": "github-start",
+    "data": "https://www.youtube.com/watch?v=da3Kpc0UNjU",
+    "addedAt": "2026-09-02T12:00:00.000Z"
+  },
+  {
+    "id": "s8-git-rebase-1",
+    "type": "video",
+    "title": "GIT. Интерактивный Rebase",
+    "author": "pgk-champs",
+    "chapterId": "git-rebase",
+    "data": "https://www.youtube.com/watch?v=m-GIJOEh798",
+    "addedAt": "2026-09-02T12:00:00.000Z"
+  },
+  {
+    "id": "s8-git-rebase-2",
+    "type": "video",
+    "title": "Merge или Rebase?",
+    "author": "pgk-champs",
+    "chapterId": "git-rebase",
+    "data": "https://www.youtube.com/watch?v=d5rvy5XPyzk",
+    "addedAt": "2026-09-02T12:00:00.000Z"
+  },
+  {
+    "id": "s8-grep-regex-1",
+    "type": "video",
+    "title": "Команда grep | Регулярные выражения (ADV-IT)",
+    "author": "pgk-champs",
+    "chapterId": "grep-regex",
+    "data": "https://www.youtube.com/watch?v=Y1fjIG7S_F0",
+    "addedAt": "2026-09-02T12:00:00.000Z"
+  },
+  {
+    "id": "s8-grep-regex-2",
+    "type": "video",
+    "title": "GREP регулярные выражения (Антон Павленко)",
+    "author": "pgk-champs",
+    "chapterId": "grep-regex",
+    "data": "https://www.youtube.com/watch?v=PBkJIRmWynM",
+    "addedAt": "2026-09-02T12:00:00.000Z"
+  },
+  {
+    "id": "s8-ssh-keys-deep-1",
+    "type": "video",
+    "title": "Создание SSH ключа, настройка SSH-сервера",
+    "author": "pgk-champs",
+    "chapterId": "ssh-keys-deep",
+    "data": "https://www.youtube.com/watch?v=dy_XaQOJnPw",
+    "addedAt": "2026-09-02T12:00:00.000Z"
+  },
+  {
+    "id": "s8-ssh-keys-deep-2",
+    "type": "video",
+    "title": "Git урок 2: Добавляем SSH-ключ",
+    "author": "pgk-champs",
+    "chapterId": "ssh-keys-deep",
+    "data": "https://www.youtube.com/watch?v=FRGzvDbiGG4",
+    "addedAt": "2026-09-02T12:00:00.000Z"
   }
 ]

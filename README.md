@@ -27,22 +27,25 @@
   "type": "preset",
   "title": "Словарь недели 3",
   "author": "student-login",
-  "chapterId": "foundation/02-it-english",
+  "chapterId": "it-english",
   "data": { "name": "Словарь недели 3", "engine": "flashcards", "cards": [{ "term": "branch", "translation": "ветка" }] },
   "addedAt": "2026-09-01T12:00:00.000Z"
 }
 ```
 
 - `id` — `i<номер issue>`, уникален для каждой принятой заявки.
-- `type` — `preset` | `repo` | `link`.
+- `type` — `preset` | `repo` | `link` | `video` | `source`.
 - `title` — заголовок карточки в каталоге.
 - `author` — GitHub-логин автора (берётся из issue, подделать нельзя).
-- `chapterId` — необязательная привязка к главе платформы.
+- `chapterId` — необязательная привязка к главе платформы: короткий id главы
+  (буквы латиницы в нижнем регистре, цифры, дефис — `^[a-z0-9-]+$`), без
+  раздела и номера, например `it-english`, а не `foundation/02-it-english`.
 - `data`:
   - для `preset` — данные движка платформы (`engine`:
     `flashcards` | `wordorder` | `codetyping` | `predict` и поля движка,
     как в конструкторе /gym);
-  - для `repo` и `link` — строка с `https://`-адресом.
+  - для `repo`, `link`, `video` и `source` — строка с `https://`-адресом
+    (`video` — обязательно ссылка на youtube.com или youtu.be).
 - `addedAt` — ISO-время принятия.
 
 ## Правила
