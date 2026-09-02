@@ -223,5 +223,18 @@
     "chapterId": "waves-first-network",
     "data": "https://github.com/waves-enterprise",
     "addedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "i3",
+    "type": "preset",
+    "title": "Три слова про git",
+    "author": "Olegg000",
+    "chapterId": "foundation/05-git-first-commit",
+    "data": {
+      "engine": "wordorder",
+      "phrase": "git commit early",
+      "name": "Три слова про git"
+    },
+    "addedAt": "2026-09-02T04:59:09.619Z"
   }
 ]
